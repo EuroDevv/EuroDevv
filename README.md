@@ -26,4 +26,5 @@ COD MW3 2023 (Tested 1 day ago)
 Valorant (Tested Two Months Ago)
 
 Anti-Cheat Bypasses (tested on anti-cheats):
+
 Ricochet (recommended to run a spoofer/blocker before using any tool to prevent ban)
