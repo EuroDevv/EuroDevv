@@ -5,7 +5,7 @@ Selling my kernel injector source as I don't use it anymore. This does NOT work 
 DM me on Discord if interested
 Discord: euro.gg
 
-Selling for $50 (PRICE IS NEGOTIABLE)
+Selling for $70 (PRICE IS NEGOTIABLE)
 Accepting Paypal/Cashapp
 
 Info:
@@ -15,7 +15,7 @@ Driver (Semi-UD meaning you won't get insta banned)
 
 Manual mapper using shellcode execution
 
-Basic KeyAuth
+KeyAuth Loader 
 
 Multi-COD Game/game injector (Detection rate depends on the anticheat)
 
