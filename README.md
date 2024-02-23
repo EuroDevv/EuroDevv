@@ -10,10 +10,15 @@ Accepting Paypal/Cashapp
 
 Info:
 Injector Source
+
 Driver (Semi-UD meaning you won't get insta banned)
+
 Manual mapper using shellcode execution
+
 Basic KeyAuth
+
 Multi-COD Game/game injector (Detection rate depends on the anticheat)
+
 Custom encryption method
 
 Games Tested:
